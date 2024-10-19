@@ -1,0 +1,7 @@
+#### 3.4 `.npmignore`
+
+Specify files to ignore when publishing:
+
+```plaintext
+node_modules/
+src/

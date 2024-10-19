@@ -1,0 +1,26 @@
+{
+  "name": "react-native-text-pro",
+  "version": "1.0.0",
+  "description": "React Native Text Pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adnan-Tech01/react-native-text-pro.git"
+  },
+  "keywords": [
+    "react-native",
+    "text",
+    "pro",
+    "library"
+  ],
+  "author": "Adnan-Tech01",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.75.4",
+    "react-native-linear-gradient": "^2.8.3"
+  }
+}
